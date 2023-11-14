@@ -1,2 +1,2 @@
-print("Ahora lo estoy editando!")
-print("Que tal el curso?")
+print("Ahora lo estoy editando! v1.22")
+print("Que mira bobo?")
