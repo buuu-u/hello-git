@@ -1,2 +1,1 @@
-print("Ahora lo estoy editando! v1.22")
-print("Que mira bobo?")
+print("new hello! v1.22")
